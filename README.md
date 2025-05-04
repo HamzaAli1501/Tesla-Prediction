@@ -66,8 +66,7 @@ This project uses publicly available stock data to analyze and predict Tesla’s
 
 ## 📄 Documentation
 
-* [📘 Markdown Report](reports/tesla_stock_analysis.md) – Detailed documentation of methods and results
-* [📕 PDF Report](reports/tesla_stock_analysis.pdf) – Printable version of the analysis
+* Present at /Reports
 
 ## Project Components
 
