@@ -46,7 +46,7 @@ This project uses publicly available stock data to analyze and predict Tesla’s
    ```bash
    git clone https://github.com/yourusername/tesla-prediction.git
    cd tesla-prediction
-````
+   ```
 
 2. Install dependencies:
 
